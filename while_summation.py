@@ -1,5 +1,5 @@
 #while summation code following directions from Readme
-user_num = int(input("What number? "))
+user_num = int(input())
 looped_times = 0
 total = 0
 
